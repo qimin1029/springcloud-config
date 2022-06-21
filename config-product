@@ -1,1 +1,2 @@
-configproduct:this is config product
+config
+  info: this is config-product yml  version is 1
