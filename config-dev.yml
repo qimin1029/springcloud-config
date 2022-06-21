@@ -1,1 +1,2 @@
-configpdev:this is config dev
+config:
+  info: this is config-dev yml
